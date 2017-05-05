@@ -117,14 +117,22 @@ for parent,dirnames,filenames in os.walk(os.getcwd()):    #三个参数：分别
                         #
                         # print(result[0])
                         if result[0][:7] == "TOOLTIP":
+
                             breakstr = result[1].split("</color>")
                             if len(breakstr) > 1:
                                 yjson[result[0]] = breakstr[1].strip()
-
-
+                            else:
+                                spaceStr = result[1].replace("<color=white>","").replace("</color>","")
+                                ResStr = spaceStr.split("</b>")
+                                if len(ResStr) > 1:
+                                    yjson[result[0]] = ResStr[1]
+                                # print()
                     xjson["config"] = yjson
-                    # print(yjson)
                     resjson.append(xjson)
+                        # if result[0] == 'TOOLTIP_OPTIONS':
+                        #     print(result[1])
+
+
                     with open("Language.txt", "a" , encoding="utf-8") as f:
                         for each_setting in settings:
                             f.write(each_setting + "\n")
