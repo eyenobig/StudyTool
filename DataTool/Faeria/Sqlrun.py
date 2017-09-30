@@ -32,8 +32,8 @@ def InsertData(Tname,Tdata):
 def Squotes(data):
     strtest = ""
     # print(data)
-    if data.find("'") == -1:
-        strtest =  "'" + data + "'"
+    if data.find('"') == -1:
+        strtest =  '"' + data + '"'
     elif data.find('"') == -1:
         strtest =  '"' + data + '"'
     else:

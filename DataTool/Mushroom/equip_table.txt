@@ -1,0 +1,57 @@
+a00,0,0,1,0,0,照明器 Lv.1,Heat Lamp Lv.1,test1,test1
+a01,0,120,8,0,0,照明器 Lv.2,Heat Lamp Lv.2,test2,test2
+a02,0,360,16,0,0,照明器 Lv.3,Heat Lamp Lv.3,test3,test3
+a03,0,820,24,0,0,照明器 Lv.4,Heat Lamp Lv.4,test4,test4
+a04,0,1280,28,0,0,照明器 Lv.5,Heat Lamp Lv.5,test5,test5
+a05,0,2240,32,0,0,照明器 Lv.6,Heat Lamp Lv.6,test6,test6
+a06,0,3600,36,0,0,照明器 Lv.7,Heat Lamp Lv.7,test7,test7
+a07,0,5200,40,0,0,照明器 Lv.8,Heat Lamp Lv.8,test8,test8
+a08,0,8600,44,0,0,照明器 Lv.9,Heat Lamp Lv.9,test9,test9
+a09,0,12800,46,0,0,照明器 Lv.10,Heat Lamp Lv.10,test10,test10
+a10,1,0,48,0,0,色彩の照明器,Colorful Lamp,test11,test11
+a11,1,0,32,0,0,カボチャ照明器,Pumpkin Lamp,test12,test12
+a12,1,0,48,0,0,ベルの照明器,Bell Heat Lamp,test13,test13
+a13,1,52000,64,0,0,究極照明器,Ultimate Lamp,test14,test14
+a14,1,15000,56,0,0,提灯,Paper Lantern,test15,test15
+a15,1,0,48,0,0,満月の照明器,Full Moon Lamp,test16,test16
+a16,1,0,48,0,0,氷結晶の照明器,Snowy Lamp,test17,test17
+a17,1,0,48,0,0,日の出の照明器,Sunrise Lamp,test18,test18
+a18,1,0,48,0,0,太陽の宝玉,Sun Jewel,test19,test19
+b00,0,0,0,0,1,保温器 Lv.1,Warmer Lv.1,test1,test1
+b01,0,120,0,0,10,保温器 Lv.2,Warmer Lv.2,test2,test2
+b02,0,360,0,0,20,保温器 Lv.3,Warmer Lv.3,test3,test3
+b03,0,820,0,0,30,保温器 Lv.4,Warmer Lv.4,test4,test4
+b04,0,1280,0,0,40,保温器 Lv.5,Warmer Lv.5,test5,test5
+b05,0,2240,0,0,45,保温器 Lv.6,Warmer Lv.6,test6,test6
+b06,0,3600,0,0,50,保温器 Lv.7,Warmer Lv.7,test7,test7
+b07,0,5200,0,0,55,保温器 Lv.8,Warmer Lv.8,test8,test8
+b08,0,8600,0,0,60,保温器 Lv.9,Warmer Lv.9,test9,test9
+b09,0,12800,0,0,65,保温器 Lv.10,Warmer Lv.10,test10,test10
+b10,1,0,0,0,55,色彩の保温器,Colorful Warmer,test11,test11
+b11,1,0,0,0,55,カボチャ保温器,Pumpkin Warmer,test12,test12
+b12,1,0,0,0,55,ブーツの保温器,Boots Warmer,test13,test13
+b13,1,52000,0,0,80,究極保温器,Ultimate Warmer,test14,test14
+b14,1,15000,0,0,60,ろうそく,Candle,test15,test15
+b15,1,0,0,0,65,墓標の保温器,Tombstone Warmer,test16,test16
+b16,1,0,0,0,55,氷結晶の保温器,Snowy Warmer,test17,test17
+b17,1,0,0,0,55,門松の保温器,Kadomatsu Warmer,test18,test18
+b18,1,0,0,0,55,導きの炎,Guiding Flame,test19,test19
+c00,0,0,0,1,0,加湿器 Lv.1,Humidifier Lv.1,test1,test1
+c01,0,120,0,1.1,0,加湿器 Lv.2,Humidifier Lv.2,test2,test2
+c02,0,360,0,1.14,0,加湿器 Lv.3,Humidifier Lv.3,test3,test3
+c03,0,820,0,1.18,0,加湿器 Lv.4,Humidifier Lv.4,test4,test4
+c04,0,1280,0,1.22,0,加湿器 Lv.5,Humidifier Lv.5,test5,test5
+c05,0,2240,0,1.24,0,加湿器 Lv.6,Humidifier Lv.6,test6,test6
+c06,0,3600,0,1.26,0,加湿器 Lv.7,Humidifier Lv.7,test7,test7
+c07,0,5200,0,1.28,0,加湿器 Lv.8,Humidifier Lv.8,test8,test8
+c08,0,8600,0,1.3,0,加湿器 Lv.9,Humidifier Lv.9,test9,test9
+c09,0,12800,0,1.32,0,加湿器 Lv.10,Humidifier Lv.10,test10,test10
+c10,1,0,0,1.28,0,色彩の加湿器,Colorful Humidifier,test11,test11
+c11,1,0,0,1.22,0,カボチャ加湿器,Pumpkin Humidifier,test12,test12
+c12,1,0,0,1.18,0,星の加湿器,Star Humidifier,test13,test13
+c13,1,52000,0,1.4,0,究極加湿器,Ultimate Humidifier,test14,test14
+c14,1,15000,0,1.32,0,暗雲,Wicked Cloud,test15,test15
+c15,1,0,0,1.36,0,コウモリ加湿器,Bat Humidifier,test16,test16
+c16,1,0,0,1.18,0,氷結晶の加湿器,Snowy Humidifier,test17,test17
+c17,1,0,0,1.18,0,おとその加湿器,Otoso Humidifier,test18,test18
+c18,1,0,0,1.18,0,ムチンの聖水,Holy Mucin,test19,test19
